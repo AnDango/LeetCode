@@ -5,9 +5,9 @@ Attainments on LeetCode with Java!
 
 # List of Solved Problems
 
-| Title | Difficulty | Solved Date |
-|:------|:-----------|:------------|
-| #1 | E | 2017.8.21 |
+| Sequence | Title | Difficulty | Solved Date | Optimized Date |
+|:---------|:------|:-----------|:------------|:---------------|
+| #0001 | Two Sum | Easy | 2017.8.21 |  |
 
 
 --- 
