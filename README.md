@@ -1,5 +1,5 @@
 # LeetCode
-Attainments on LeetCode with Java!
+Attainments on LeetCode with Java.
 
 --- 
 
@@ -7,7 +7,7 @@ Attainments on LeetCode with Java!
 
 | Sequence | Title | Difficulty | Solved Date | Optimized Date |
 |:---------|:------|:-----------|:------------|:---------------|
-| #0001 | Two Sum | Easy | 2017.8.21 |  |
+| #0001 | Two Sum | Easy | 2017.8.21 | 2017.8.22 |
 
 
 --- 
