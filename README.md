@@ -1,5 +1,5 @@
-# LeetCode
-Attainments on LeetCode with Java.
+# Introduction
+Coding Progress on LeetCode with Java.
 
 --- 
 
